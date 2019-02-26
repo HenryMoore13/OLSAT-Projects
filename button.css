@@ -1,0 +1,43 @@
+#backgr {
+    width: 23rem;
+    height: 23rem;
+    background-color: blue;
+}
+/* #btn {
+    position: relative;
+    left: 9rem;
+    top: 9rem;
+}
+#btn1 {
+    position: relative;
+    left: 0rem;
+    top: 23rem;
+}
+#btn2 {
+    position: relative;
+    left: 13rem;
+    top: 0rem;
+} */
+img {
+    width: 23rem;
+    height: 20rem;
+    display: none;
+}
+.click-here {
+    border-radius: 4px;
+    background-color: aqua;
+    border: 1px solid black;
+    padding: 10px;
+    position: relative;
+}
+
+.myCard {
+    transition: transform 5s ease-out;
+}
+
+.sliderRotate {
+    transform: translateX(12px) rotate(1080deg);
+}
+#bdy {
+    width: 15rem;
+}
